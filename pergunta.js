@@ -1,23 +1,23 @@
 criaCartao(
     'futebol',
-    'quem foi o ultimo campeao da bola de ouro?',
+    'quem foi o ultimo campeão da bola de ouro?',
     'Rodri, meio-campo da Espanha e do Manchester City'
     )
     
     criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'futebol',
+    'Quanto tempo dura uma partida de futebol?',
+    '90 minutos, divididos em duas partes de 45 minutos cada.'
     )
     
     criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'futebol',
+    'Qual time de futebol ganhou mais Copas do Mundo? ',
+    'Brasil (5).'
     )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'futebol',
+    'Quantos jogadores um time de futebol tem em jogo?',
+    '11'
     )
     
